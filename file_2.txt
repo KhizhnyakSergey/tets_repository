@@ -3,3 +3,4 @@ Some text
 Some text
 Some text
 Some text
+Line from user 2 
